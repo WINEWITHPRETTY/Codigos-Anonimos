@@ -1,0 +1,53 @@
+
+Show document preamble
+
+%% you can upload a photo and include it here...
+%\begin{wrapfigure}{l}{0.5\textwidth}
+%	\vspace*{-2em}
+%		\includegraphics[width=0.15\textwidth]{picture-of-me1.jpg}
+%\end{wrapfigure}
+
+% ALTERNATIVE PICTURE SETTINGS TO THE ABOVE :
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\iffalse
+%  \includegraphics[width=\linewidth]{picture-of-me1.jpg}
+%  \caption{
+picture-of-me1.jpg
+%    caption{left aligned image}
+%    \label{fig:me}
+\fi
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\MyName{Stephen Fay}
+
+%\MySlogan{Curriculum Vitae}
+
+\NameEmailPhoneSiteGithub{Santiago Pedraza}{+57 322 639 2533}{dpedrazao1@ucentral.edu.co}{Universidad Central}{github.com/winewithpretty}
+
+
+\sepspace
+
+%%% Education
+%%% ------------------------------------------------------------
+
+\NewPart{Educación}{}
+
+% Jesse said to make a hybrid of bothe CV's, so more bullet-points but also need adequate description
+ [\heartstab]Pregrado en Ingeniería de Sistemas.
+Universidad Central - Carrera 5 n.° 21-38.
+
+Cursando actualmente.
+ [\squigarr] Bachiller
+
+Colegio Católico de la Sabana - Bogotá, Cundinamarca.
+
+enero 2022 - noviembre 2022.
+
+ [\heartstab] {Curso en Seguridad Informatica}
+
+Abril 2021 - Junio 2021.
+
+Servicio Nacional de Aprendizaje - SENA.
+
+ [\squigarr] Curso en Diseño Gráfico
+\end{document}
